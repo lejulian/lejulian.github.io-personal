@@ -7,12 +7,27 @@ const skills = [
   {
     title: 'FADE/MIST',
     competency: 5,
-    category: ['Intelligence', 'Javascript'],
+    category: ['Intelligence', 'Communication'],
   },
   {
     title: 'AEHF',
     competency: 4,
-    category: ['Web Development', 'Javascript', 'Communication'],
+    category: ['Communication'],
+  },
+  {
+    title: 'KMI',
+    competency: 4,
+    category: ['Communication'],
+  },
+  {
+    title: 'AN/BLQ-10',
+    competency: 5,
+    category: ['Intelligence', 'Communication'],
+  },
+  {
+    title: 'Integrated Broadcast Service',
+    competency: 5,
+    category: ['Communication', 'Intelligence'],
   },
   {
     title: 'Numpy',
