@@ -1,4 +1,4 @@
-// TODO Add a couple lines about each project
+/* // TODO Add a couple lines about each project
 const data = [
   {
     title: 'Nearest Dollar',
@@ -11,7 +11,7 @@ const data = [
       + 'or debit cards and rounded up your purchases to donate the balance to '
       + 'the charity of your choice.',
   },
-  {
+  /* {
     title: 'Harvest',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
@@ -39,10 +39,11 @@ const data = [
     image: '/images/projects/catdetector.jpg',
     date: '2015-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
+/*       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
       + 'to continue hosting.',
-  },
+  }, *//* 
 ];
 
 export default data;
+ */ */ */
