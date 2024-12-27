@@ -20,7 +20,7 @@ const work = [
     summary: 'Leading a team of approximately 30 specialized technicians responsible for the training of over 1000 Sailors and Naval Officers yearly in safe radiological controls and operations. Directly responsible for the radiological management and chemistry of a land-based Naval Reactor.',
     highlights: [
       'Member of the Emergency Response Organization',
-      'Chaired academic oral examination boards in support of staff and student',
+      'Chair academic examination boards in support of staff and student training',
     ],
   },
   {
