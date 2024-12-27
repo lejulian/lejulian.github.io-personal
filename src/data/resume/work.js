@@ -29,9 +29,9 @@ const work = [
     url: 'https://navalnuclearlab.energy.gov/nptu-charleston/',
     startDate: '2023-08-01',
     endDate: '2024-07-01',
-    summary: `Led a staff of Sailors and Officers to ensure safe day-to-day operations of Moored Training Ship USS San Francisco. Provided practical, academic, and professional training to future Sailors and Officers of the US Nuclear Navy.`,
+    summary: 'Led a staff of Sailors and Officers to ensure safe day-to-day operations of Moored Training Ship USS San Francisco. Provided practical, academic, and professional training to future Sailors and Officers of the US Nuclear Navy.',
     highlights: [
-      'Mentored Submarine Officers to aid them in their professional development and career planning.'
+      'Mentored Submarine Officers to aid them in their professional development and career planning.',
     ],
   },
   {
