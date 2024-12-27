@@ -87,7 +87,6 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/projects');
   });
 
-
   it('can navigate to /contact', async () => {
     expect.assertions(3);
     const contactLink = document.querySelector(
