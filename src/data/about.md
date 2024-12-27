@@ -1,6 +1,6 @@
 # Intro
 
-As the Chemistry and Radiological Controls Assitant on the USS San Francisco Moored Training Ship, I oversee the maintentance, technician training, and overall operations surrounding chemistry and radiological controls of the nuclear reactor plant. Previously, I served onboard the USS Columbia based out of Pearl Harbor, Hawaii. 
+As the Chemistry and Radiological Controls Assitant on the USS San Francisco Moored Training Ship, I oversee the maintentance, technician training, and overall operations surrounding chemistry and radiological controls of the nuclear reactor plant. Previously, I served onboard the USS Columbia based out of Pearl Harbor, Hawaii.\
 
 I am interested in pursuing a career in next-generation command and control systems and electronic warfare methods.
 
@@ -40,5 +40,5 @@ I grew up in Sebastopol, California for the majority of my childhood.
 
 # Websites from People I Admire
 
-[Jasper O'Leary](https://www.jaspertranoleary.com/)
+[Jasper O'Leary](https://www.jaspertranoleary.com/)\
 [Millie Tran](https://www.millietran.com/)
