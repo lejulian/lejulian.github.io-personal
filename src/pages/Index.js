@@ -17,8 +17,8 @@ const Index = () => (
             <Link to="/">Hello</Link>
           </h2>
           <p>
-            Transitioning Nuclear Submarine Officer currently overseeing Chemistry and
-            Radiological Controls onboard USS San Francisco Moored Training Ship.
+            Transitioning Nuclear Submarine Officer overseeing Chemical and
+            Radiological Controls onboard The USS San Francisco Moored Training Ship.
           </p>
         </div>
       </header>
