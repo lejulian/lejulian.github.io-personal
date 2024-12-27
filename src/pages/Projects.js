@@ -20,11 +20,7 @@ const Projects = () => (
         <div className="title">
           <h1>Project Page Under Construction</h1>
         </div>
-        
       </header>
-      {data.map((project) => (
-        <Cell data={project} key={project.title} />
-      ))}
     </article>
   </Main>
 );
