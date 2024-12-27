@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
-import data from '../data/projects';
 
 const Projects = () => (
   <Main title="Projects" description="Learn about Julian O'Leary's projects.">
