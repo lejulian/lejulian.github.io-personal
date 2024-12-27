@@ -17,7 +17,7 @@ const Projects = () => (
         </div>
       </header>
       <header>
-        <div className='title'>
+        <div className="title">
           <h1>Project Page Under Construction</h1>
         </div>
         
