@@ -1,8 +1,8 @@
 # Intro
 
-As the Chemistry and Radiological Controls Assitant on the USS San Francisco Moored Training Ship, I oversee the maintentance, technician training, and overall operations surrounding chemistry and radiological controls of the nuclear reactor plant. Previously, I served onboard the USS Columbia based out of Pearl Harbor, Hawaii.  
+<p>As the Chemistry and Radiological Controls Assitant on the USS San Francisco Moored Training Ship, I oversee the maintentance, technician training, and overall operations surrounding chemistry and radiological controls of the nuclear reactor plant. Previously, I served onboard the USS Columbia based out of Pearl Harbor, Hawaii.  
 
-I am interested in pursuing a career in next-generation command and control systems and electronic warfare methods.
+<p>I am interested in pursuing a career in next-generation command and control systems and electronic warfare methods.
 
 # Some History
 

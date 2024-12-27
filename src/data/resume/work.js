@@ -13,47 +13,33 @@
  */
 const work = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
+    name: 'Nuclear Power Training Unit',
+    position: 'Chemistry and Radiological Controls Assistant',
+    url: 'https://navalnuclearlab.energy.gov/nptu-charleston/',
     startDate: '2024-07-01',
-    summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
-    highlights: [
-      'Built and scaled engineering team, emphasizing diversity and open-source contribution',
-      'Established key partnerships with AI research institutions and tech companies',
-    ],
+    summary: 'Leading a team of approximately 30 specialized technicians responsible for the training of over 1000 Sailors and Naval Officers yearly in safe radiological controls and operations. Directly responsible for the radiological management and chemistry of a land-based Naval Reactor.',
   },
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
-    startDate: '2022-01-01',
+    name: 'Nuclear Power Training Unit',
+    position: 'Shift Engineer',
+    url: 'https://navalnuclearlab.energy.gov/nptu-charleston/',
+    startDate: '2023-08-01',
     endDate: '2024-07-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
-    highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
-    ],
+    summary: `Led a staff of Sailors and Officers to ensure safe day-to-day operations of Moored Training Ship USS San Francisco. Provided practical, academic, and professional training to future Sailors and Officers of the US Nuclear Navy.  
+    Mentored Submarine Officers to aid them in their professional development and career planning.`,
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    name: 'USS Columbia',
+    position: 'Communications Officer',
+    url: 'https://www.csp.navy.mil/columbia/About/',
+    startDate: '2022-03-01',
+    endDate: '2023-08-01',
+    summary: `Led a team of communication and electronic warfare operators through an independent and demanding deployed environment. 
+    Provided critical oversight as a Communication Security Account Manager, responsible for the readiness, employment, and secure 
+    operation of submarine communication equipment throughout various deployed environments.`,
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise several startups in the fund.',
+      'Trained and certified a team of Information Technicians and Electronic Warfare specialists on the operation of mission-specific communication and electronic support equipment.',
+      'As a mission coordinator and contact manager, led an on-watch team of highly trained Sailors and Officers in the planning and execution of complex missions as directed by the operational commander while deployed to the Indo-Pacific.',
     ],
   },
   {
