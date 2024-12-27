@@ -1,60 +1,44 @@
 # Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
+As the Chemistry and Radiological Controls Assitant on the USS San Francisco Moored Training Ship, I oversee the maintentance, technician training, and overall operations surrounding chemistry and radiological controls of the nuclear reactor plant. Previously, I served onboard the USS Columbia based out of Pearl Harbor, Hawaii. 
 
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+I am interested in pursuing a career in next-generation command and control systems and electronic warfare methods.
 
 # Some History
 
-- My 
+I grew up in Sebastopol, California for the majority of my childhood.
 
 # I Like
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Flying small planes
+- Sailing small boats
+- Trail running
+- Making curries and Vietnamese food
+- [Photography](https://halidefilm.tumblr.com/)
+- Teaching traditional darkroom and architectural photography as a [teaching assistant](https://www.coursicle.com/uw/courses/ARCH/).
 
 # Travel / Geography
 
-- I am
+- My mother traveled 7,872 miles from Saigon, Vietnam and my father 5,086 miles from Cork, Ireland to meet in San Jose, where I was born. Since then, I have visited Ireland three times and have yet to visit Vietnam.
+- I travlled to Mongolia during a spring break in college.
+- I lived in Honolulu, Hawaii for three years while serving onboard the USS Columbia. I spent 3 out of every 4 days sailing around the Pacific Ocean instead of spending time in the islands.
+- I hope to travel to Taiwan in the near future.
 
 # Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow.
+- In high school, my friend and I launched a weather balloon into the stratosphere with little more than grocery store supplies. We included in the payload a chicken egg, California Poppy seeds, and a GoPro to record the [footage](https://vimeo.com/45049692).
+- I got my pilot's license before my driver's license and had to get driven to the airport to fly a plane solo.
+- I co-founded an a capella group at the University of Washington.
+- I planted and grew a small garden using only nuclear power.
+- I hosted the [Cactus Cool-Down](https://spinitron.com/Rainy-Dawg/dj/83109/Bean) on the UW student radio station.
 
 # I Dream Of
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+- Our Planet
+- Domestic Tranquility
+- Technological Breakthrough
 
 # Websites from People I Admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Ed Kearney](https://edkearney.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
+[Jasper O'Leary](https://www.jaspertranoleary.com/)
+[Millie Tran](https://www.millietran.com/)
