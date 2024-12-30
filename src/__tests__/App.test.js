@@ -93,7 +93,6 @@ describe('renders the app', () => {
       document.querySelector('#header > nav > ul > li:nth-child(5) > a'),
     );
     expect(contactLink).toBeInTheDocument();
-  
     await act(async () => {
       contactLink.click();
     });
