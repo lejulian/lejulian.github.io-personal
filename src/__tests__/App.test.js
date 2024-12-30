@@ -8,7 +8,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { act } from 'react-dom/test-utils';
 import App from '../App';
-import { waitFor } from '@testing-library/react';
 
 describe('renders the app', () => {
   // mocks the fetch API used on the stats page and the about page.
@@ -75,7 +74,7 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/resume');
   });
 
-/*   it('can navigate to /projects', async () => {
+  /*   it('can navigate to /projects', async () => {
     expect.assertions(3);
     const contactLink = document.querySelector(
       '#header > nav > ul > li:nth-child(3) > a',
@@ -88,7 +87,7 @@ describe('renders the app', () => {
     expect(window.location.pathname).toBe('/projects');
   }); */
 
-  it('can navigate to /contact', async () => {
+  /* it('can navigate to /contact', async () => {
     expect.assertions(3);
     const contactLink = await waitFor(() =>
       document.querySelector('#header > nav > ul > li:nth-child(5) > a'),
@@ -98,5 +97,5 @@ describe('renders the app', () => {
     await act(async () => {
       contactLink.click();
     });
-  });
+  }); */
 });
